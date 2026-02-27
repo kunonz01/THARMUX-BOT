@@ -1258,7 +1258,7 @@ def edit(sid):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>THARMUX BOT EDIT - {{ filename }}</title>
+    <title>THARMUX BOT EDIT- {{ filename }}</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.23.0/ace.js"></script>
     <style>
@@ -1401,7 +1401,7 @@ def edit(sid):
 <div class="header">
     <div class="logo">
         <i class="fas fa-terminal"></i>
-        <span>THARMUX BOT EDIT </span>
+        <span>THARMUX BOT EDIT</span>
     </div>
     <div class="file-info">
         <i class="far fa-file-code"></i>
@@ -1825,7 +1825,7 @@ def home():
                 </div>
             </div>
 
-            <a href="https://t.me/your_bot_username" class="btn-telegram" target="_blank">
+            <a href="https://t.me/KAALIX_ROBOT" class="btn-telegram" target="_blank">
                 <i class="fab fa-telegram-plane"></i>
                 OPEN TELEGRAM BOT
             </a>
@@ -1866,7 +1866,7 @@ def api_stats():
 
 # ========== MAIN ==========
 if __name__ == "__main__":
-    print("🤖 Starting THARMUX BOT v5.0...")
+    print("🤖 Starting Termux Bot Pro v5.0...")
     print(f"👑 Main Admin: {MAIN_ADMIN_ID}")
     print(f"📁 Base Directory: {BASE_DIR}")
     print(f"📁 User Data Directory: {USER_DATA_DIR}")
